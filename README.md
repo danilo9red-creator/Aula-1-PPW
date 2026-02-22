@@ -1,1 +1,1 @@
-# Aula-1-PPW - Projeto de desenvolvimento Web Aula 1
+# Aula-1-PPW - Projeto de Programação para Web Aula 1
